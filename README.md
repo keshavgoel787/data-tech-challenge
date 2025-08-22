@@ -2,8 +2,9 @@ My process began by defining clear objectives: to identify the most and least tr
 
 
 <p align="center">
-  <strong><a href="https://drive.google.com/file/d/1jWBBT2BAr68uIwOmSPTRaMDJSoqHwCCd/view?usp=sharing">Cleaned Data Set | </a></strong> 
-  <strong><a href = "https://docs.google.com/document/d/1UjLSU7bZSHWQEx6QbIdl2f1SNRqDdI6D1Of_C4wz7Oc/edit?usp=sharing">Report </a></strong>
+  <strong><a href="https://drive.google.com/file/d/1jWBBT2BAr68uIwOmSPTRaMDJSoqHwCCd/view?usp=sharing">Cleaned Data Set</a></strong> |
+  <strong><a href = "https://docs.google.com/document/d/1UjLSU7bZSHWQEx6QbIdl2f1SNRqDdI6D1Of_C4wz7Oc/edit?usp=sharing">Report</a></strong>
 </p>
+
 
 
